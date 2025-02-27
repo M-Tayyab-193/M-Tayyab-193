@@ -5,7 +5,7 @@ M-Tayyab-193/M-Tayyab-193 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-I am currently working on my web technologies web application.<br> Along with that I'm learning react ja framework for frontend.<br>I am planning to collaborate on practical based projects that solve real world problems and provide solutions.
+I am currently working on my web technologies course project.<br> Along with that I'm learning react ja framework for frontend.<br>I am planning to collaborate on practical based projects that solve real world problems and provide solutions.
 
 
 ## 🌐 Socials:
